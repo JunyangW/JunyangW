@@ -27,3 +27,6 @@ I'm Junyang,  I am studying for a Bachelor of CS at the University of Adelaide, 
 
 ## Contact
 - [@.wbwbwb](./) on Discord
+
+## Work Link
+<a href="(https://www.linkedin.com/in/junyang-wang-85252129b/?trk=nav_responsive_tab_profile_pic)"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
